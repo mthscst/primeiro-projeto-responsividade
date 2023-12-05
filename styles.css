@@ -47,11 +47,11 @@ button {
 }
 
 button:hover{
-    opacity: 0.8;
+    opacity: .8;
 }
 
 button:active{
-    opacity: 0.5;
+    opacity: .5;
 }
 
 .container-right {
@@ -86,7 +86,7 @@ margin-left: 57px;
 }
 
 .opacity{
-    opacity: 0.4;
+    opacity: .4;
 }
 
 a{
@@ -95,11 +95,11 @@ a{
 }
 
 a:hover{
-    opacity: 0.5;
+    opacity: .5;
 }
 
 a:active{
-    opacity: 0.25;
+    opacity: .25;
 }
 
 @media screen and (max-width: 900px){
